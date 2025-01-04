@@ -1,5 +1,8 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsudikshan)](https://github.com/anuraghazra/github-readme-stats)
+## Hi there 👋 Im Sudikshan Rimal aspiring to be spring boot devloper
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rsudikshan&show_icons=true" />
+
+
+<img alt="top lang" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsudikshan&layout=compact"/>
 
 <!--
 **rsudikshan/rsudikshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
