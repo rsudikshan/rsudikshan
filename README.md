@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on MERN
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning MERN stack and Go
+- ⚡ I primarily work in Java.
 - 📫 How to reach me: rsudikshan1@gmail.com
+
 
 <div align="start">
  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
