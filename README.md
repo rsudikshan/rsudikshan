@@ -1,5 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsudikshan&label=Profile%20views&color=0e75b6&style=flat" alt="rojanun" /> </p>
 ## Hi there 👋 Im Sudikshan Rimal
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsudikshan&label=Profile%20views&color=0e75b6&style=flat" alt="rojanun" /> </p>
+
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rsudikshan&show_icons=true" />
 
