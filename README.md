@@ -22,8 +22,8 @@ Here are some ideas to get you started:
  <img alt="my stats" align="left" width="10%" src="https://hits.dwyl.com/rsudikshan/rsudikshan.svg?style=flat-square" /> 
 -->
 
-- 🔭 I’m currently working on MERN
-- 🌱 I’m currently learning MERN stack and Go
+- 🔭 I’m currently working on Go
+- 🌱 I’m currently learning Rust and Go
 - ⚡ I primarily work in Java.
 - 📫 How to reach me: rsudikshan1@gmail.com
 
