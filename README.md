@@ -2,11 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsudikshan&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rsudikshan&show_icons=true" />
+<!-- <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rsudikshan&show_icons=true" />
 
 
-<img alt="top lang" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsudikshan&layout=compact"/>
-
+<img alt="top lang" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsudikshan&layout=compact"/> -->
 
 
 
@@ -22,21 +21,26 @@ Here are some ideas to get you started:
  <img alt="my stats" align="left" width="10%" src="https://hits.dwyl.com/rsudikshan/rsudikshan.svg?style=flat-square" /> 
 -->
 
-- 🔭 I’m currently working on Go
-- 🌱 I’m currently learning Rust and Go
-- ⚡ I primarily work in Java.
+<div>
+  - 🔭 I’m currently working on Go
+ <br>
+<!---- 🌱 I’m currently learning Rust and Go
+ ⚡ I primarily work in Java.-->
 - 📫 How to reach me: rsudikshan1@gmail.com
+</div>
+<br>
+
 
 
 <div align="start">
  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" title="Spring"/></code>
  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
- <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="Kotlin" title="Kotlin"/></code>
+ <!-- <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="Kotlin" title="Kotlin"/></code>
  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" title="Android"/></code>
- <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP" title="PHP"/></code>
+ <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP" title="PHP"/></code> -->
  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code>
- <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="Unity" title="Unity"/></code>
+ <!-- <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="Unity" title="Unity"/></code>
  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#"/></code>
  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
@@ -52,7 +56,7 @@ Here are some ideas to get you started:
  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="Kafka" title="Kafka"/></code>
- <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="Redis" title="Redis"/></code>
+ <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="Redis" title="Redis"/></code> -->
 
 
   
