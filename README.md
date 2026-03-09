@@ -27,7 +27,7 @@ package main
 import "fmt"
 
 func main() {
-    name     := "Sudikshan"
+    name     := "Sudikshan Rimal"
     location := "Nepal 🇳🇵"
     email    := "rsudikshan1@gmail.com"
 
