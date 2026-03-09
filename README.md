@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Sudikshan%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Game%20Enthusiast%20%7C%20Builder&descAlignY=55&descSize=18&descColor=a0aec0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Sudikshan%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Enthusiast%20%7C%20Builder&descAlignY=55&descSize=18&descColor=a0aec0"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Open+source+enthusiast+%F0%9F%8C%9F;Currently+diving+into+Flutter+%F0%9F%8E%AF;Passionate+about+tech+%26+games+%F0%9F%8E%AE;Always+building%2C+always+learning+%F0%9F%9A%80;Full-stack+dev+with+a+game+dev+side+quest+%F0%9F%8E%AE" alt="Typing SVG" />
